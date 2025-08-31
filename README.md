@@ -1,0 +1,2 @@
+# projects
+Bayes-Naive Algorithm
